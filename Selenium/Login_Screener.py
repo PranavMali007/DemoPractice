@@ -17,5 +17,5 @@ driver.find_element(By.XPATH,"//a[@class='button account']").click()
 driver.find_element(By.NAME,"username").send_keys("pranavmali0007@gmail.com")
 driver.find_element(By.NAME,"password").send_keys("Pranav@16091999")
 driver.find_element(By.NAME,"password").submit()
-# input("PLEASE ENTER TO CLOSE BROWSER")
+
 driver.quit()
