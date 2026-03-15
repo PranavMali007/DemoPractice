@@ -17,7 +17,7 @@ def test_sample_two():
 @pytest.mark.smoke
 def test_sample_three():
     a = 'Pranav'
-    b = 'Pranav'
+    b = 'Pranavv'
     assert a.__eq__(b)
     print('Inside Three')
 
